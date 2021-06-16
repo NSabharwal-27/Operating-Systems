@@ -1,9 +1,9 @@
 EECS 3221 CPU Scheduler 
 Made by Nikhil Sabharwal 216240707
 
-This project implements CPU scheduling algorithms such as: FCFS, SJF, RR, Priority, and Priority with RR.
+This project implements CPU scheduling algorithms such as: FCFS, SJF, RR, Priority and priority.
 
-This projects consists of 18 files:
+This projects consists of 17 files:
 book.txt
 CPU.c
 cpu.h
@@ -15,7 +15,6 @@ pri-schedule.txt
 README.txt
 rr-schedule.txt
 schedule_fcfs.c
-schedule_priority_rr.c
 schedule_prirority.c
 schedule_rr.c
 schedule_sjf.c
